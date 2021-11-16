@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "aws-sdk": "^2.326.0",
+    "aws-sdk": "^2.814.0",
     "moment": "^2.22.2",
     "serverless-offline": "^3.25.17",
     "underscore": "^1.9.1",
